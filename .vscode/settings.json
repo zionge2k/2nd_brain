@@ -1,0 +1,7 @@
+{
+    "github.copilot.enable": {
+        "*": true
+    },
+    "extensions.autoUpdate": false,
+    "update.mode": "manual"
+}
